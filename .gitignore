@@ -1,0 +1,9 @@
+# package files
+pkg/
+
+# every build directory
+src/*/build/
+src/*/package/
+
+# final package file
+*.pkg.tar.zst
